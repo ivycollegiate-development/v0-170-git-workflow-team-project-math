@@ -10,6 +10,7 @@ jobs:
         with:
           node-version: '18'
       - name: Install dependencies
+        working-directory: ./subfolder-name  # the folder that actually has package.json
         run: npm install
       - name: Run tests
         run: npm test
