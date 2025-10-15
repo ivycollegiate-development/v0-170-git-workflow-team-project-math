@@ -34,3 +34,10 @@ cat scroll
 
 You are now playing the game.
 May the gods save you.
+This is a multiple Line comment using triple single quotes
+...
+
+
+
+This is another multiple line comment, using DOUBLE quotes 
+
