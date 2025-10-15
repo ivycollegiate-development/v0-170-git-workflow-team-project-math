@@ -25,12 +25,12 @@ $ cd /home/your_username/Downloads/bashcrawl/entrance
 in your terminal window, press RETURN.
 The exact path to the entrance varies, depending on where you saved the file.
 
-Your first move is very important.
+Your first move is very important.l
 Type this into your terminal:
 
 ```
 cat scroll
-```
+``` 
 
 You are now playing the game.
 May the gods save you.
