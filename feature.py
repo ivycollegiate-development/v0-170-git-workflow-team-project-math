@@ -10,3 +10,4 @@ This is another multiple line
 commit, using triple DOUBLE quotes
 """
 
+print("Hello, world!")
